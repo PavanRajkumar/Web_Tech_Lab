@@ -1,0 +1,25 @@
+<html>
+<head>
+    <title>Program-4a) Position of left most vowel</title>
+</head>
+<body>
+	<script>
+		var str=prompt("Enter the string:")
+        document.write("The string is:"+str+"<br>")
+		str=str.toUpperCase()
+		document.write("The converted string is:"+str+"<br>")
+		var n=str.length
+		document.write("The length of the string is:"+n+"<br>")
+		for(i=0;i<n;i++)
+		{
+			var ch = str.charAt(i)
+			if(ch=='A'|| ch=='E' || ch=='I' || ch=='O' || ch=='U')
+				break;
+		}
+		if(i<n)
+			document.write("The left most vowel is found at position:"+(i+1))
+		else 
+			document.write("Vowel is not found")
+	</script>
+</body>
+</html>
