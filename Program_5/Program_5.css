@@ -1,0 +1,33 @@
+Header{
+    font-size: 30px;
+    display: block;
+    margin-bottom: 20px;
+}
+USN{
+    color: red;
+    display: block;
+}
+Name{
+    color: green;
+    display: block;
+}
+CollegeName{
+    color: blue;
+    display: block;
+}
+Branch{
+    color: yellow;
+    display: block;
+}
+YearOfJoining{
+    color: orange;
+    display: block;
+}
+email{
+    color: purple;
+    display: block;
+}
+student1, student2, student3{
+    border: 4px solid green;
+    display: inline-block;
+}

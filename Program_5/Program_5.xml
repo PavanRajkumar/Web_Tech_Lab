@@ -1,0 +1,30 @@
+<?xml-stylesheet type="text/css" href="Program_5.css"?>
+<studentList>
+	<Header>
+		Pavan Rajkumar Magesh - 1CR17CS090
+	</Header>
+    <student1>
+        <USN>1CR17CS090</USN>
+        <Name>Pavan Rajkumar</Name>
+        <CollegeName>CMRIT</CollegeName>
+        <Branch>CSE</Branch>
+        <YearOfJoining>2017</YearOfJoining>
+        <email>pava17is@cmrit.ac.in</email>
+    </student1>
+    <student2>
+        <USN>1CR17CS001</USN>
+        <Name>Robert Plant</Name>
+        <CollegeName>CMRIT</CollegeName>
+        <Branch>CSE</Branch>
+        <YearOfJoining>2017</YearOfJoining>
+        <email>rbrb17cs@cmrit.ac.in</email>
+    </student2>
+    <student3>
+        <USN>1CR17CS002</USN>
+        <Name>Jimmy Page</Name>
+        <CollegeName>CMRIT</CollegeName>
+        <Branch>CSE</Branch>
+        <YearOfJoining>2017</YearOfJoining>
+        <email>jimpcs@cmrit.ac.in</email>
+    </student3>
+</studentList>
